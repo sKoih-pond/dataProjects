@@ -101,7 +101,33 @@ Implications for the salary floor:
 | Studio condo | S$2,400 – 3,500 (avg ~S$2,900) | [Bamboo Routes](https://bambooroutes.com/blogs/news/singapore-rents) |
 | 1-bedroom condo | S$3,100 – 5,500 (typical ~S$3,900) | [Bamboo Routes](https://bambooroutes.com/blogs/news/singapore-rents), [PropertyGuru — 2,697 live 1BR listings](https://www.propertyguru.com.sg/apartment-condo-for-rent/with-1-bedroom) |
 
-Tenant-favourable timing: rent growth has slowed to ~3% y/y with vacancy ~7% ([Bamboo Routes](https://bambooroutes.com/blogs/news/singapore-rents)). Whole-HDB leases run 6 months minimum and occupants must be registered with HDB; short-stay visitors are guests, but disclose the arrangement to the landlord.
+Tenant-favourable timing: rent growth has slowed to ~3% y/y with vacancy ~7% ([Bamboo Routes](https://bambooroutes.com/blogs/news/singapore-rents)).
+
+### Extended rental research — privacy requirement (July 2026 update)
+
+**HDB regulatory catch (supersedes earlier guest note):** HDB whole-flat tenants/occupants must hold an Employment Pass, S Pass, Work Permit, Student Pass, Dependant's Pass, or LTVP **valid ≥6 months at application** — a Short-Term Visit Pass does not qualify, so a fiancée on visitor passes cannot be a registered occupant ([HDB eligibility](https://www.hdb.gov.sg/residential/renting-out-a-flat-bedroom/renting-out-your-flat/eligibility), [CEA tenant guide](https://www.cea.gov.sg/consumers/transacting-on-your-own/renting-an-hdb-flat-or-bedroom/)). Non-Malaysian foreigners are also subject to a **non-citizen quota: 8% per neighbourhood, 11% per block** ([check quota by block](https://services2.hdb.gov.sg/webapp/BR12AWNCQuota/BR12PEnquire.jsp)); minimum lease 6 months; lease capped at 2 years when tenants are non-Malaysian foreigners ([Lovely Homes 2026 subletting guide](https://lovelyhomes.com.sg/singapore-hdb-subletting-rental-guide-2026/)).
+
+Ranked private (no-sharing) options for this scenario:
+
+| Option | Monthly cost | Lease terms | Fit for couple w/ STVP visitor |
+|---|---|---|---|
+| **1. Studio / 1BR private condo or walk-up (OCR estates)** | S$2,400 – 3,500 studio; S$3,100 – 3,900 1BR heartland | 3-month minimum (URA private-residential rule); no non-citizen quota | **Best**: private property has no HDB occupier-pass rule; guests are a landlord-consent matter |
+| **2. Co-living private studio / serviced apartment (e.g. [Coliwoo](https://coliwoo.com/), ~3,600 units: en-suite bath, kitchenette, washer-dryer, bills + housekeeping in)** | ~S$2,000 – 3,500+ by location (quote directly) | From 6 nights; monthly rates; no deposit-heavy setup | **Best for landing phase**: hotel-licensed, couple-friendly, zero immigration paperwork; convert to a condo lease once employment + her status stabilise |
+| 3. Whole 3-room HDB in cheapest towns (Woodlands, Choa Chu Kang, Bukit Batok — [DollarsAndSense 2026](https://dollarsandsense.sg/hdb-rental-guide-cheapest-and-most-expensive-estates-to-rent-an-hdb-flat-in-2026/)) | ~S$2,000 – 2,400 | 6-month min; quota + occupier-pass rules above | Cheapest, but **fiancée cannot be registered** on STVP — viable only after she holds a DP/LTVP |
+
+Practical play: land in a Coliwoo-type studio (month 1–3, no deposit lock-in while job/pass settle) → sign a 12-month OCR studio/1BR condo lease once employed → whole HDB only becomes relevant after marriage + Dependant's Pass.
+
+### Salary floors in annual terms (FX: 1 AUD = 0.8949 SGD, [3 Jul 2026](https://www.exchangerates.org.uk/AUD-SGD-spot-exchange-rates-history-2026.html))
+
+| Scenario floor | SGD/month | SGD/year (×12) | AUD/year |
+|---|---|---|---|
+| Solo absolute floor | 3,000 | 36,000 | ≈ 40,200 |
+| Solo recommended | 4,000 – 4,200 | 48,000 – 50,400 | ≈ 53,600 – 56,300 |
+| Couple lean / EP legal minimum | 5,600 | 67,200 | ≈ 75,100 |
+| **Couple target (Dependant's Pass threshold)** | **6,000** | **72,000** | **≈ 80,400** |
+| Couple comfortable (citizen/PR basis) | 7,300 | 87,600 | ≈ 97,900 |
+
+Note: Singapore packages commonly add an AWS "13th month" (S$6,000/mo base ≈ S$78,000 ≈ AUD 87,200 actual annual cash), but MOM pass thresholds count **fixed monthly salary only** — bonuses and AWS don't help pass eligibility.
 
 ### Fiancée's immigration position (Vietnamese passport, not yet married)
 - **30 days visa-free** per entry under the ASEAN exemption ([ICA visa requirements](https://www.ica.gov.sg/enter-transit-depart/entering-singapore/visa_requirements), [visa policy overview](https://en.wikipedia.org/wiki/Visa_policy_of_Singapore)).
