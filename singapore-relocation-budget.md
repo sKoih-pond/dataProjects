@@ -75,7 +75,24 @@ No CPF deduction; tax as above once resident (≥183 days). The binding constrai
 
 Practical read: typical IT-support pay (S$2,700–3,500) sits **below or barely at** the S Pass line, so as a foreigner target data analyst / network roles at **≥S$3,300 (S Pass)**, or **≥S$5,600 (EP)** for a clean pass. Your AUD 80k preference (≈ S$5,730/mo) lands almost exactly at the EP threshold — a useful anchor, but expect entry data/IT roles in SG to offer less than that.
 
-## 5. Bottom line
+## 5. Reassessment — corrected for actual experience level (July 2026)
+
+Sections 3–4 originally benchmarked entry-level pay. Current CV evidence (3+ years: SaaS platform support at RCS Australia, senior escalation lead at Optus; Windows/SQL Server/AD administration; Azure + Python/SQL data-pipeline and XGBoost portfolio; UNSW Master of Analytics due Nov 2026; Monash cybersecurity certificate) puts the realistic target at **mid-level**, not entry:
+
+| Option (ranked) | SG monthly gross (2026) | Fit / notes | Source |
+|---|---|---|---|
+| **1. Application / technical support engineer (SaaS, enterprise)** | S$3,600 – 5,200 typical; Indeed average S$5,793; back/middle-office app support in financial services S$7,500 – 9,200 | Straightest line from RCS + Optus experience; FS app-support tier clears the EP bar | [Jobstreet](https://sg.jobstreet.com/career-advice/role/application-support-engineer/salary), [Indeed SG](https://sg.indeed.com/career/application-support-engineer/salaries), [Morgan McKinley](https://www.morganmckinley.com/sg/salary-guide/data/application-support-bo-mo/singapore) |
+| **2. Data analyst (2–4 yrs equivalent)** | S$4,500 – 6,500 (S$54k – 78k/yr); analytics master's grads S$4,800 – 6,000+ | Strongest after Nov 2026 graduation; portfolio (SGN Flight Warehouse, airline analysis) is the differentiator | [Vertical Institute](https://verticalinstitute.com/blog/data-analyst-salary-singapore/), [PayScale](https://www.payscale.com/research/SG/Job=Data_Analyst/Salary) |
+| 3. Hybrid: ITSM/service-management analyst, support-tooling & automation, junior data engineer | ~S$4,500 – 6,500 | Sells the Optus queue-management project + Azure pipeline together; fewer openings but low competition | benchmarked between rows 1–2 |
+| 4. NOC / network operations | S$3,200 – 5,500 | Weakest pay for the profile despite Cisco/Palo Alto/Fortinet exposure; only worth it at premium employers | [Jobstreet NOC](https://sg.jobstreet.com/career-advice/role/network-operations-centre-engineer/salary) |
+
+Implications for the salary floor:
+- **Do not take entry IT helpdesk (S$2,700 – 3,500)** — it is a pay cut below the recommended floor, discards seniority, and cannot clear the EP threshold.
+- The **AUD 80k preference (≈ S$5,730/mo)** is attainable: FS application support and post-master's data roles reach it; generalist SaaS support lands slightly under (S$5,000 – 5,500).
+- If a work pass is needed, mid-level application support or data analyst offers at **S$5,600+ (EP)** are realistic for this profile — the earlier "foreigners can't reach EP in support" caveat applied to entry level only. The Master of Analytics also strengthens COMPASS scoring.
+- **Timing:** applying from ~Sep 2026 to start after the Nov 2026 UNSW graduation maximises both salary band and pass eligibility.
+
+## 6. Bottom line
 
 - **Monthly spend forecast:** ~**S$1,850** lean / ~**S$2,750** comfortable, room-rental setup.
 - **Salary floor:** **S$3,000/mo** absolute minimum (local, lean), **S$4,000–4,200/mo** recommended; **S$3,300/mo** hard legal floor on S Pass, **S$5,600/mo** on EP if relocating as a foreigner.
