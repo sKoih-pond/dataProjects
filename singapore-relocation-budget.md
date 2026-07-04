@@ -92,7 +92,51 @@ Implications for the salary floor:
 - If a work pass is needed, mid-level application support or data analyst offers at **S$5,600+ (EP)** are realistic for this profile — the earlier "foreigners can't reach EP in support" caveat applied to entry level only. The Master of Analytics also strengthens COMPASS scoring.
 - **Timing:** applying from ~Sep 2026 to start after the Nov 2026 UNSW graduation maximises both salary band and pass eligibility.
 
-## 6. Bottom line
+## 6. Couple scenario — private whole-unit rental, fiancée visiting from Ho Chi Minh (added July 2026)
+
+### Housing: no sharing
+| Option | Monthly rent (2026) | Source |
+|---|---|---|
+| Whole 3-room HDB flat | **~S$2,200** (eased ~4% from Q1 2024) | [Bamboo Routes rent tracker 2026](https://bambooroutes.com/blogs/news/singapore-rents), [HDB market rental rates tool](https://services2.hdb.gov.sg/webapp/BR12AWRentalEnq/) |
+| Studio condo | S$2,400 – 3,500 (avg ~S$2,900) | [Bamboo Routes](https://bambooroutes.com/blogs/news/singapore-rents) |
+| 1-bedroom condo | S$3,100 – 5,500 (typical ~S$3,900) | [Bamboo Routes](https://bambooroutes.com/blogs/news/singapore-rents), [PropertyGuru — 2,697 live 1BR listings](https://www.propertyguru.com.sg/apartment-condo-for-rent/with-1-bedroom) |
+
+Tenant-favourable timing: rent growth has slowed to ~3% y/y with vacancy ~7% ([Bamboo Routes](https://bambooroutes.com/blogs/news/singapore-rents)). Whole-HDB leases run 6 months minimum and occupants must be registered with HDB; short-stay visitors are guests, but disclose the arrangement to the landlord.
+
+### Fiancée's immigration position (Vietnamese passport, not yet married)
+- **30 days visa-free** per entry under the ASEAN exemption ([ICA visa requirements](https://www.ica.gov.sg/enter-transit-depart/entering-singapore/visa_requirements), [visa policy overview](https://en.wikipedia.org/wiki/Visa_policy_of_Singapore)).
+- Extension possible to a **maximum of 89 days from entry**, requires a local sponsor; S$40 fee applies if total stay reaches 90+ days ([ICA extension e-Service](https://www.ica.gov.sg/enter-depart/extend_short_stay)).
+- **No long-term pass exists for a fiancée.** Dependant's Pass = legally married spouse only; LTVP covers common-law spouses — both require the sponsoring pass holder to earn **≥S$6,000 fixed monthly** ([MOM LTVP](https://www.mom.gov.sg/passes-and-permits/long-term-visit-pass), [Raffles Corporate Services 2026 guide](https://rafflescorporateservices.com/singapore-dependants-pass-dp-ltvp-foreign-family-2026/)). Bonuses don't count toward the S$6,000.
+- Practical consequence: she cycles on Short-Term Visit Passes (30→89 days), exits, re-enters. **Repeated back-to-back entries are granted at ICA's discretion and can be refused** — this is a tolerance, not a status. She cannot work on an STVP.
+- Durable paths: **(a) marry → Dependant's Pass** once you earn ≥S$6,000; (b) she lands her own SG job/work pass; (c) accept indefinite visa-cycling risk.
+
+### Flights SGN ⇄ SIN
+One-way budget fares from ~US$51–54 (Vietjet, Scoot), typically US$50–190; ~2h nonstop; cheapest ~6 weeks out ([Expedia route page — from US$58](https://www.expedia.com/lp/flights/sgn/sin/ho-chi-minh-city-to-singapore), [Scoot](https://www.flyscoot.com/flights/en/flights-from-ho-chi-minh-city-to-singapore)). Budget **S$150–250 per round trip**; at 4–8 trips/year for visa cycling, ~**S$70–135/month amortised**.
+
+### Two-person budget (single income; she can't work on STVP)
+| Category | Lean (3-rm HDB) | Comfortable (studio condo) |
+|---|---|---|
+| Whole-unit rent | 2,200 | 2,900 |
+| Utilities + internet | 190 | 225 |
+| Mobiles ×2 | 30 | 40 |
+| Food ×2 | 900 | 1,200 |
+| Transport ×2 | 220 | 250 |
+| Her travel/health insurance (no employer/MediShield cover) | 100 | 120 |
+| Visa-cycle flights (amortised) | 100 | 135 |
+| Personal/misc | 300 | 500 |
+| **Total** | **≈ S$4,040** | **≈ S$5,370** |
+
+### Revised salary floor for this scenario
+| Basis | Gross needed |
+|---|---|
+| Citizen/PR (20% CPF), lean + small buffer | **≈ S$5,600/mo** |
+| Citizen/PR, comfortable + savings | ≈ S$7,300/mo |
+| Foreigner on EP (no CPF) | EP legal floor **S$5,600** binds at lean; ≈ S$6,100 comfortable |
+| **Marriage → Dependant's Pass for her** | **≥ S$6,000 fixed monthly** — the real target |
+
+Read against Section 5: generalist SaaS support (S$5,000–5,500) no longer clears this scenario. Financial-services application support (S$7,500–9,200) clears everything including the DP threshold; mid data analyst (S$4,500–6,500) clears it only at the upper half. AUD 80k (≈S$5,730) covers lean but not comfortable — target **S$6,000+** offers.
+
+## 7. Bottom line
 
 - **Monthly spend forecast:** ~**S$1,850** lean / ~**S$2,750** comfortable, room-rental setup.
 - **Salary floor:** **S$3,000/mo** absolute minimum (local, lean), **S$4,000–4,200/mo** recommended; **S$3,300/mo** hard legal floor on S Pass, **S$5,600/mo** on EP if relocating as a foreigner.
