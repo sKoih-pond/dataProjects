@@ -115,6 +115,16 @@ Ranked private (no-sharing) options for this scenario:
 | **2. Co-living private studio / serviced apartment (e.g. [Coliwoo](https://coliwoo.com/), ~3,600 units: en-suite bath, kitchenette, washer-dryer, bills + housekeeping in)** | ~S$2,000 – 3,500+ by location (quote directly) | From 6 nights; monthly rates; no deposit-heavy setup | **Best for landing phase**: hotel-licensed, couple-friendly, zero immigration paperwork; convert to a condo lease once employment + her status stabilise |
 | 3. Whole 3-room HDB in cheapest towns (Woodlands, Choa Chu Kang, Bukit Batok — [DollarsAndSense 2026](https://dollarsandsense.sg/hdb-rental-guide-cheapest-and-most-expensive-estates-to-rent-an-hdb-flat-in-2026/)) | ~S$2,000 – 2,400 | 6-month min; quota + occupier-pass rules above | Cheapest, but **fiancée cannot be registered** on STVP — viable only after she holds a DP/LTVP |
 
+**Cheapest locations for a private studio/1BR (July 2026 evidence):**
+
+| Area (district) | Typical 1BR/studio rent | Notes | Evidence |
+|---|---|---|---|
+| Aljunied / Geylang fringe (D14) | **S$1,560 – 1,640** (walk-ups/small units); Geylang median rent S$2,613; 1BR condos from S$2,800 | Cheapest absolute prices in the city fringe; older walk-ups, no facilities; vet the specific lorong (odd-numbered lorongs carry red-light adjacency) | [FazWaz Geylang listings](https://www.fazwaz.sg/apartment-for-rent/singapore/central-region/geylang), [99.co Geylang walk-ups](https://www.99.co/singapore/rent/condos-apartments/walk-up-apartments/geylang) |
+| Hougang / Punggol / Sengkang (D19) | median 1BR ≈ **S$2,700** | Biggest supply of newer OCR 1BRs; direct NEL/TEL commutes | [Bamboo Routes 2026](https://bambooroutes.com/blogs/news/singapore-rents) |
+| Jurong East / West (D22), Tampines/Pasir Ris (D18), Punggol | S$2,800 – 3,100 | Newer developments, competitive pricing | [Bamboo Routes 2026](https://bambooroutes.com/blogs/news/singapore-rents) |
+| Woodlands / Admiralty (D25), Yishun/Sembawang (D27) | lower rents but thin condo supply | HDB-dominated; fewer private 1BRs to choose from | [PropertyGuru 1BR listings map](https://www.propertyguru.com.sg/apartment-condo-for-rent/with-1-bedroom) |
+| Browse: [6,184 condos under S$3k](https://www.propertyguru.com.sg/apartment-condo-for-rent/priced-under-3k-sgd) · [993 walk-up listings](https://www.propertyguru.com.sg/property-for-rent/p/walk-up-apartment-rent) | | | |
+
 Practical play: land in a Coliwoo-type studio (month 1–3, no deposit lock-in while job/pass settle) → sign a 12-month OCR studio/1BR condo lease once employed → whole HDB only becomes relevant after marriage + Dependant's Pass.
 
 ### Salary floors in annual terms (FX: 1 AUD = 0.8949 SGD, [3 Jul 2026](https://www.exchangerates.org.uk/AUD-SGD-spot-exchange-rates-history-2026.html))
