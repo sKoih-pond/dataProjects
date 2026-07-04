@@ -125,6 +125,18 @@ Ranked private (no-sharing) options for this scenario:
 | Woodlands / Admiralty (D25), Yishun/Sembawang (D27) | lower rents but thin condo supply | HDB-dominated; fewer private 1BRs to choose from | [PropertyGuru 1BR listings map](https://www.propertyguru.com.sg/apartment-condo-for-rent/with-1-bedroom) |
 | Browse: [6,184 condos under S$3k](https://www.propertyguru.com.sg/apartment-condo-for-rent/priced-under-3k-sgd) · [993 walk-up listings](https://www.propertyguru.com.sg/property-for-rent/p/walk-up-apartment-rent) | | | |
 
+**MRT commute factor (humidity-driven, July 2026 update):** under LTA's Walk2Ride programme, **every MRT station has sheltered walkways covering the 400m radius** (200m around LRT stations/interchanges) — so "≤400m from station" is the practical filter for a walk that stays covered ([LTA walking infrastructure](https://www.lta.gov.sg/content/ltagov/en/getting_around/active_mobility/walking_cycling_infrastructure/walking.html), [MOT parliamentary reply](https://www.mot.gov.sg/news/details/written-reply-to-parliamentary-question-on-covered-walkways-for-residents-who-live-within-800-metre-radius-of-mrt-stations)). Near-MRT units carry a **S$100–300/month premium** ([Zrooom 2026](https://www.zrooom.com/blogs/details/cost-of-renting-in-singapore-updated-2026)). Commute-adjusted ranking of the cheap districts (approx. train time to CBD/Raffles Place):
+
+| Area | Line(s) | ~CBD commute | Near-MRT budget read |
+|---|---|---|---|
+| **Aljunied / MacPherson / Paya Lebar (D14)** | EWL; MacPherson CCL/DTL, Paya Lebar EWL/CCL interchanges | **~12–18 min** | Best combined value: walk-ups within a 5-min walk of Aljunied MRT exist at the S$1,800–2,600 level ([listings note 5-min walk units](https://www.singaporeexpats.com/housing-in-singapore/condos-near-MRT.htm)) |
+| Hougang / Buangkok (D19) | NEL direct; Cross Island Line under construction | ~20–28 min | 1BR ~S$2,700–3,000 near stations; CRL is already lifting values |
+| Sengkang / Punggol (D19) | NEL + LRT feeder | ~30–40 min | Cheaper stock but the LRT transfer adds time; fine if fully near the NEL station itself |
+| Jurong East (D22) | NSL/EWL interchange (+JRL) | ~25–30 min to CBD; **~0–10 min if job is in the western business parks/data-centre belt** | Pick only if the job lands west |
+| Woodlands (D25) | TEL | ~35–45 min | Cheapest rents don't compensate for the commute unless the job is northside |
+
+Budget effect: pinning the search to ≤400m of a station shifts the studio assumption by roughly +S$150/month (≈ +S$190/month gross on a CPF basis) — it does not materially move the salary floors; the S$5,600/S$6,000 thresholds still bind.
+
 Practical play: land in a Coliwoo-type studio (month 1–3, no deposit lock-in while job/pass settle) → sign a 12-month OCR studio/1BR condo lease once employed → whole HDB only becomes relevant after marriage + Dependant's Pass.
 
 ### Salary floors in annual terms (FX: 1 AUD = 0.8949 SGD, [3 Jul 2026](https://www.exchangerates.org.uk/AUD-SGD-spot-exchange-rates-history-2026.html))
