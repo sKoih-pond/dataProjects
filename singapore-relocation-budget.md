@@ -86,6 +86,17 @@ Sections 3–4 originally benchmarked entry-level pay. Current CV evidence (3+ y
 | 3. Hybrid: ITSM/service-management analyst, support-tooling & automation, junior data engineer | ~S$4,500 – 6,500 | Sells the Optus queue-management project + Azure pipeline together; fewer openings but low competition | benchmarked between rows 1–2 |
 | 4. NOC / network operations | S$3,200 – 5,500 | Weakest pay for the profile despite Cisco/Palo Alto/Fortinet exposure; only worth it at premium employers | [Jobstreet NOC](https://sg.jobstreet.com/career-advice/role/network-operations-centre-engineer/salary) |
 
+### Live shortlist — foreign-hire-friendly, data-first (Indeed SG, July 2026)
+
+| # | Role | Why it fits | Foreign-hire signal |
+|---|---|---|---|
+| 1 | [Data Engineer — YouTrip](https://to.indeed.com/aagvdjh8vtmt) | 0–4 yrs; ETL/ELT pipelines, monitoring, data quality, AI-agent data — direct match to the SGN Flight Warehouse project | Series B regional fintech (Lightspeed-backed), international team across SG/TH/AU |
+| 2 | [Associate Data Analyst, Energy & Freight — Vortexa](https://to.indeed.com/aadvwbtj4ch2) | Junior data role explicitly blending data quality with client-facing support — support background is an asset, Python + Claude AI tooling in the JD | London-HQ global scale-up (6 offices), no local-only restriction |
+| 3 | [Analyst, Data Science — American Express (Credit & Fraud Risk)](https://to.indeed.com/aa87fh8nwzdk) | Wants quant Masters + 1–2 yrs ML — aligns with UNSW Master of Analytics (Nov 2026) + XGBoost project; apply near graduation | US MNC with established EP sponsorship track record; note FS-sector EP bar is S$6,200 |
+| 4 | [Security IT Support Engineer — Crypto.com](https://to.indeed.com/aabcw4rdxp8b) *(backup)* | Requires 3+ yrs IT support (met); vulnerability mgmt + IAM + AI security = support→security bridge, not a helpdesk dead-end; Monash cyber cert + firewall skills apply | Global crypto firm, international security team, explicit equal-opportunity hiring |
+
+Caveats: SG listings rarely state pass sponsorship outright — the proxy is MNC/scale-up status plus the absence of a "Singaporeans/PR only" line (all four pass that screen); confirm sponsorship in the first recruiter call. Vortexa is priced as a junior role, so negotiate against the S$5,600 EP bar; Amex sits in financial services where the EP bar is S$6,200.
+
 Implications for the salary floor:
 - **Do not take entry IT helpdesk (S$2,700 – 3,500)** — it is a pay cut below the recommended floor, discards seniority, and cannot clear the EP threshold.
 - The **AUD 80k preference (≈ S$5,730/mo)** is attainable: FS application support and post-master's data roles reach it; generalist SaaS support lands slightly under (S$5,000 – 5,500).
