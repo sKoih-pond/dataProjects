@@ -139,6 +139,22 @@ Budget effect: pinning the search to ≤400m of a station shifts the studio assu
 
 Practical play: land in a Coliwoo-type studio (month 1–3, no deposit lock-in while job/pass settle) → sign a 12-month OCR studio/1BR condo lease once employed → whole HDB only becomes relevant after marriage + Dependant's Pass.
 
+### Feasibility check vs Sydney baseline (added July 2026)
+
+Current Sydney rent AUD 450/wk = AUD 1,950/mo ≈ **S$1,745/mo** — below Sydney's median apartment rent of ~AUD 647/wk ([RentBuzz 2026](https://rentbuzz.com.au/guides/average-rent-sydney-by-suburb-2026), [Selectra](https://selectra.com.au/moving/renting/average-rent)). A S$3,443 Paya Lebar 1BR (AUD ~888/wk) is the **premium tier** of D14 (new integrated development at a double interchange), not the budget path. The D14 rent ladder: walk-up S$1,560–2,000 (**≈ parity with current Sydney rent**) → older condo S$2,400–2,800 → new integrated S$3,400+.
+
+Why the budget still works at equal gross pay (AUD 80k ≈ S$72k/yr):
+
+| Monthly, at same gross | Sydney (AUD→SGD) | Singapore (EP, no CPF) |
+|---|---|---|
+| Tax + Medicare / income tax | ≈ 20% effective | ≈ 4% effective ([IRAS rates](https://www.iras.gov.sg/taxes/individual-income-tax/basics-of-individual-income-tax/tax-residency-and-tax-rates/individual-income-tax-rates)) |
+| Take-home | ≈ S$4,750 | ≈ S$5,770 |
+| Rent (like-for-like older 1BR) | 1,745 | ~1,900 (D14 walk-up near MRT) |
+| Food, transport, utilities, phone | ~1,250–1,600 | ~950 single / ~1,840 couple |
+| **Left over** | **~S$1,400–1,750** | **~S$2,900 single / ~S$2,030 couple** |
+
+Even taking the S$3,443 unit, a single on S$6,000/mo still saves ~S$1,380/mo; a couple ~S$490 (thin — that unit demands ~S$6,500+ on EP basis, ~S$7,300 on CPF basis).
+
 ### Salary floors in annual terms (FX: 1 AUD = 0.8949 SGD, [3 Jul 2026](https://www.exchangerates.org.uk/AUD-SGD-spot-exchange-rates-history-2026.html))
 
 | Scenario floor | SGD/month | SGD/year (×12) | AUD/year |
