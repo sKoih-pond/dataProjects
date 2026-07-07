@@ -213,7 +213,24 @@ One-way budget fares from ~US$51–54 (Vietjet, Scoot), typically US$50–190; ~
 
 Read against Section 5: generalist SaaS support (S$5,000–5,500) no longer clears this scenario. Financial-services application support (S$7,500–9,200) clears everything including the DP threshold; mid data analyst (S$4,500–6,500) clears it only at the upper half. AUD 80k (≈S$5,730) covers lean but not comfortable — target **S$6,000+** offers.
 
-## 7. Bottom line
+## 7. Tax requirements — Australian citizen employed in Singapore (added July 2026)
+
+### Singapore employer's obligations
+- **No monthly withholding/PAYE** — salary is paid gross; income tax is the employee's annual liability ([Singapore payroll guide 2026](https://www.singaporesecretaryservices.com/singapore-payroll-cpf-guide-2026-rates-deadlines-employer-obligations/)). No CPF for EP holders; employer pays only the small Skills Development Levy.
+- **Form IR8A** (annual remuneration return) to employee/IRAS by 1 March each year ([IRAS IR8A notes](https://www.iras.gov.sg/docs/default-source/individual-income-tax/employers/explanatory-notes-on-form-ir8a-and-appendix-8a-for-ya2026.pdf?sfvrsn=c931723b_28)).
+- **Form IR21 tax clearance** whenever a foreign employee resigns, is posted away, or leaves SG >3 months: employer must file ≥1 month before cessation and **withhold all final monies** (last salary, bonus, leave encashment) until IRAS issues clearance; fines up to S$5,000 for non-compliance ([IRAS IR21](https://www.iras.gov.sg/taxes/individual-income-tax/employers/tax-clearance-for-foreign-spr-employees-(ir21))). Expect the final month's pay to arrive late on any future job change.
+
+### Employee's Singapore obligations
+- File annual return by 15 Apr (paper) / 18 Apr (e-file); pay as lump sum or 12-month interest-free GIRO instalments. Taxes are assessed **in arrears** — first bill arrives mid-year following the first work year; reserve ~S$230/mo against it.
+- Residency bands ([IRAS](https://www.iras.gov.sg/taxes/individual-income-tax/basics-of-individual-income-tax/tax-residency-and-tax-rates/working-out-my-tax-residency)): ≥183 days/yr → resident progressive rates (~3.8% effective on S$72k); 61–182 days → **15% flat or resident rates, whichever is higher, no reliefs**. IRAS's administrative concession treats continuous employment spanning two calendar years (≥183 days total) as resident for both years — a Sep-2026 start lands resident rates from day one under this concession.
+
+### Australian obligations (the bigger planning issue)
+- **Decision point: cease AU tax residency at departure.** If ceased, foreign income earned after departure is not taxable in Australia — only Australian-source income remains taxable ([ATO residency](https://www.ato.gov.au/individuals-and-families/coming-to-australia-or-going-overseas/your-tax-residency)). If residency is retained, worldwide income is taxed at AU marginal rates with only a ~4% Singapore tax credit offset — a ~AUD 10k+/yr cost. A clean break (indefinite SG employment contract, SG lease, partner in SG) supports non-residency under the resides/domicile tests; frequent returns or a retained home weaken it. The AU–SG double-tax agreement tie-breaks dual residency, normally to Singapore once the permanent home is there.
+- **CGT event I1 (deemed disposal):** ceasing residency deems all non-taxable-Australian-property assets (shares, ETFs, crypto) sold at market value on the departure date; gains go in the final part-year AU return. Alternatively elect to defer (treat as TAP), but later disposals are then taxed as a non-resident **without** the 50% CGT discount ([ATO CGT on changing residency](https://www.ato.gov.au/individuals-and-families/investments-and-assets/capital-gains-tax/foreign-residents-and-capital-gains-tax/how-changing-residency-affects-cgt)). Review any portfolio *before* the flight.
+- **HELP/HECS debt does not stop at the border:** lodge an overseas travel notification via myGov, report **worldwide income** to the ATO by 31 Oct annually, and make compulsory repayments once worldwide income exceeds the threshold — S$72k ≈ AUD 80k is well above it (≈4.5–5% repayment rate, ~AUD 3.5–4k/yr ≈ **S$260–300/mo — add to the budget if a HELP balance exists**). Debt continues indexing ([ATO overseas obligations](https://www.ato.gov.au/individuals-and-families/coming-to-australia-or-going-overseas/living-overseas-and-remaining-an-australian-tax-resident)).
+- Post-departure AU-source income (e.g. rent, unfranked dividends, bank interest) is taxed at non-resident rates (30% from the first dollar, no tax-free threshold) or final withholding; notify banks/registries of non-resident status. Superannuation stays preserved — citizens cannot withdraw it on departure.
+
+## 8. Bottom line
 
 - **Monthly spend forecast:** ~**S$1,850** lean / ~**S$2,750** comfortable, room-rental setup.
 - **Salary floor:** **S$3,000/mo** absolute minimum (local, lean), **S$4,000–4,200/mo** recommended; **S$3,300/mo** hard legal floor on S Pass, **S$5,600/mo** on EP if relocating as a foreigner.
