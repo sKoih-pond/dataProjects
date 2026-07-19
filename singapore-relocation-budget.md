@@ -232,7 +232,29 @@ Read against Section 5: generalist SaaS support (S$5,000–5,500) no longer clea
 - **HELP/HECS debt does not stop at the border:** lodge an overseas travel notification via myGov, report **worldwide income** to the ATO by 31 Oct annually, and make compulsory repayments once worldwide income exceeds the threshold — S$72k ≈ AUD 80k is well above it (≈4.5–5% repayment rate, ~AUD 3.5–4k/yr ≈ **S$260–300/mo — add to the budget if a HELP balance exists**). Debt continues indexing ([ATO overseas obligations](https://www.ato.gov.au/individuals-and-families/coming-to-australia-or-going-overseas/living-overseas-and-remaining-an-australian-tax-resident)).
 - Post-departure AU-source income (e.g. rent, unfranked dividends, bank interest) is taxed at non-resident rates (30% from the first dollar, no tax-free threshold) or final withholding; notify banks/registries of non-resident status. Superannuation stays preserved — citizens cannot withdraw it on departure.
 
-## 8. Bottom line
+## 8. COMPASS — is it marketable? (added July 2026)
+
+**Your reading is correct: COMPASS is not a credential you hold.** It is scored by MOM at the point the *employer* lodges the EP application — which only happens after an offer and a signed contract ([Raffles Corporate Services COMPASS guide 2026](https://rafflescorporateservices.com/compass-framework-singapore-employment-pass-2026/), [Hawksford](https://www.hawksford.com/insights-and-guides/singapore-employment-pass-compass)). You cannot "pass COMPASS" in advance, and putting "COMPASS-ready/passed" on a CV signals a misunderstanding. Pass mark: **40 points**.
+
+**But employers weigh COMPASS *before* offering** (a failed EP wastes their hire), so the smart move is to de-risk sponsorship by marketing the point-earning attributes you control — to the recruiter/HR, not as a CV badge.
+
+Six criteria; you influence four:
+| Criterion | Who controls | Your position |
+|---|---|---|
+| C1 Salary vs local PMET benchmark | Candidate (negotiable) | ~10 pts at S$6,000 (meets benchmark for a P2/junior band); higher salary → more |
+| **C2 Qualifications** | **Candidate** | **UNSW is on MOM's top-tier list → 20 pts. Lead with the UNSW Master of Analytics, not Swinburne (bachelor's likely 10/0)** |
+| C3 Workforce diversity | Employer (firm) | n/a to you |
+| C4 Local PMET share | Employer (firm) | Singtel = large local-majority firm → likely near-max; a point in favour of that route |
+| **C5 Skills bonus (Shortage Occupation List)** | Role | **AI and cybersecurity roles are on the 2026 SOL → up to +20 bonus** ([Newland Chase](https://newlandchase.com/compass-updates-revised-qualification-lists-shortage-occupation-list/), [Envoy Global](https://www.envoyglobal.com/news-alert/singapore-compass-education-and-shortage-occupation-list-2026/)) — a data/AI or cyber role qualifies |
+| C6 Strategic priorities bonus | Employer (firm) | n/a to you |
+
+Illustrative self-score (Singtel AIDA data role): C1 10 + C2 20 = **30 on candidate attributes alone**, +10–20 C5 SOL bonus = **40–50 before any firm points** → clears 40 comfortably. Verify with [MOM's COMPASS self-assessment tool](https://www.mom.gov.sg/passes-and-permits/employment-pass/eligibility) once salary and role are known.
+
+**Exemptions** (neither applies to you): fixed salary ≥ S$22,500/mo, or assignment ≤1 month.
+
+**How to market it:** in the recruiter conversation or cover note, proactively reassure — e.g. *"EP risk is low: top-tier postgrad qualification (C2 20 pts), the role is on the Shortage Occupation List (C5 bonus), and the proposed salary meets the benchmark."* For Singtel specifically, an internal transfer makes complementarity self-evident and the firm's C4 score is already strong — the whole calculation is easy for them, which is itself an argument for that route. Timing reinforces C2: apply once the UNSW master's is conferred (Nov 2026) so the 20-point qualification is in hand, not pending.
+
+## 9. Bottom line
 
 - **Monthly spend forecast:** ~**S$1,850** lean / ~**S$2,750** comfortable, room-rental setup.
 - **Salary floor:** **S$3,000/mo** absolute minimum (local, lean), **S$4,000–4,200/mo** recommended; **S$3,300/mo** hard legal floor on S Pass, **S$5,600/mo** on EP if relocating as a foreigner.
