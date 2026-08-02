@@ -73,11 +73,26 @@ Drop from this CV: telephony/desktop-support noise (branded apps, Zoom, Notion) 
 
 ## 5. Gap-closure workstream (prerequisite, Jul–Sep 2026)
 
-The CV's ceiling is set by what exists by September. Priority order, each ~1–2 weekends, each yielding one honest CV bullet + public repo evidence:
-1. **RAG extension** on the SGN warehouse: LlamaIndex (or LangChain) knowledge base over flight/ops documents, embeddings + retrieval feeding the existing Claude assistant. Unlocks the JD's core nouns: RAG, knowledge base, embeddings, indexing/retrieval.
-2. **PyMuPDF document-parsing demo:** parse the project's own PDF reports (layout-aware extraction into the warehouse). The JD names PyMuPDF explicitly — cheap, high-signal.
-3. **PySpark conversion** of one pipeline stage (Databricks Community Edition) → "familiar with PySpark/Databricks" becomes true.
-Skip (not worth pre-offer effort): Kafka, TTS, VLM fine-tuning, PEFT/LoRA — acknowledge as growth areas in interview.
+The CV's ceiling is set by what exists by September. Ranked by quick win (payoff ÷ effort), incorporating the bar set by the incumbent hire (`competitor-benchmark-aida.md`). Each build yields one honest CV bullet + public repo evidence.
+
+**Tier 1 — hours, zero cost, do first (these gate everything else)**
+1. **Verify req status** on the Singtel internal careers portal (~15 min). Portal shows ≥4 live AIDA reqs; confirms whether to target Data & AI Platform Engineer, AI Platform Operations Engineer, or both.
+2. **Run MOM's COMPASS self-assessment** (~20 min) → replaces the generic "EP risk is low" line with a real score.
+3. **Sync LinkedIn** headline/summary/skills to the new positioning (~1 hr). TA cross-checks within hours of first contact; must not lag the CV.
+
+**Tier 2 — one weekend each, highest build payoff**
+4. **Dockerise the SGN pipeline** (~half day). Unlocks Docker/containerisation — the clearest gap vs the incumbent profile, at the lowest cost of any technical fix.
+5. **PyMuPDF document-parsing demo** (~1 weekend): layout-aware extraction of the project's own PDF reports into the warehouse. The JD names PyMuPDF explicitly.
+
+**Tier 3 — two to three weekends, biggest keyword payload**
+6. **RAG extension** on the SGN warehouse: LlamaIndex (or LangChain) knowledge base over flight/ops docs, embeddings + retrieval feeding the existing Claude assistant. Unlocks the JD's core nouns at once — RAG, knowledge base, embeddings, indexing/retrieval. Highest single-item impact; slower only because it is the largest build.
+7. **Upgrade kohstack.au** to portfolio grade, in JD vocabulary. Sequence *after* 4–6 so there is finished work to present; `tham.ai` is the standard now being met.
+
+**Tier 4 — background track, start now, lands by Sep**
+8. **PySpark conversion** of one pipeline stage on Databricks Community Edition (~1 weekend) → "PySpark/Databricks (portfolio)" becomes true.
+9. **Azure certification** (4–8 weeks part-time study, ~US$165). **DP-700 (Fabric Data Engineer)** — note DP-203 is retired; DP-700 is the current data-engineering path *and* Fabric is named in the JD. AI-102 (AI Engineer) is the alternative. Verify the current catalogue before booking. Slowest item, so start earliest; the incumbent profile shows certs carry real weight here.
+
+**Skip — wrong axis, months of effort, competing where a specialist AI graduate is stronger:** Kafka/streaming, Kubernetes depth (basic Docker literacy is enough), PyTorch/PEFT/LoRA fine-tuning, OCR/VLM, TTS. Acknowledge as growth areas in interview.
 
 ## 6. Variants and collateral
 
