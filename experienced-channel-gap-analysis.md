@@ -50,14 +50,21 @@ These cannot be closed by courses or portfolio work. They are the real reason a 
 
 ## 5. Highest-leverage move
 
-**Convert the current Optus role into data work — and, if possible, into a data-titled one.**
+**Constraint (Aug 2026): the Optus data analytics team is a filled pool** — no internal data-titled vacancy. This blocks the transfer, *not* the work. Revised option set, ranked:
 
-Rationale: it simultaneously closes four Tier A gaps (professional delivery, title, team context, referenceable outcomes) that nothing else touches, while preserving Singtel Group tenure and costing no salary sacrifice. Concretely:
-1. Volunteer for or propose reporting/automation/analytics work in the current team — the ITSM queue-management project is proof this is already achievable.
-2. Seek an internal move to a data-adjacent title (service analytics, operations reporting, automation engineering) even at similar pay.
-3. Build internal AIDA relationships in parallel — informational conversations, not applications.
+**A. NCS — the widened Group channel (new primary).** [NCS](https://www.ncs.co/careers/) is a **Singtel Group subsidiary**: ~15,000-strong AI Tech Services firm across APAC, actively hiring **Data Engineers in Singapore**, with postings explicitly open across experience levels *including fresh graduates* (Apr 2026 req; advertised band reported ~S$100–139k p.a. — verify, likely spanning several levels). Why this outranks AIDA as an entry point: it preserves intra-Group mobility while replacing a handful of AIDA seats with a high-volume funnel, and a consulting delivery model accumulates varied client data experience quickly. Also see NEXT Data & AI consultant roles.
 
-Strategic effect: the eventual AIDA move becomes a **data-to-data lateral transfer within the Group**, not a career change requiring an employer to take a risk on a foreigner. That is the single largest reduction in EP justification difficulty available.
+**B. Data work in-seat at Optus — do this regardless (free, compatible with every other option).** A filled pool prevents a transfer, not delivery. Scope analytics/automation work inside service operations: SLA and case-volume analytics, forecasting, Power BI reporting, workflow automation. The ITSM queue-management project proves this is already achievable. Closes the Tier A "no professional data delivery" gap and yields an Optus manager as reference — without needing a vacancy.
+
+**C. Adjacent internal moves outside the analytics pool.** Search internal postings by *skill*, not title: workforce management/forecasting, service and operations reporting, automation/RPA, network performance analytics, revenue assurance and billing analytics, data quality/governance. These are data work under other team names.
+
+**D. Singapore-first, data-second — the key sequencing insight.** Enter Singapore on an **operations-framed** role where the candidate is genuinely experienced and most EP-justifiable (AI Platform Operations Engineer, DataOps, platform reliability), then pivot to data internally once in-country. Rationale: internal role changes with the same employer do not require a fresh EP justification, and the candidate stops competing as a foreigner against the local junior pool. Solves visa, location and the fiancée timing constraint using the actual strength, then solves the career track from inside. **Risk:** stalling in operations — mitigate by accepting only data-adjacent operations roles and agreeing a development path at offer stage.
+
+**E. Australian data role first, then relocate (fallback).** Take a data-titled role in Sydney — no visa friction as a citizen, far more accessible market, and support + Masters + portfolio is a credible Australian analyst candidacy — then apply to Singapore in 12–24 months as a genuine experienced data hire. **Cost:** leaves the Singtel Group and forfeits the internal channel. Trigger this if A and D stall past ~mid-2027.
+
+**F. Masters-linked routes (opportunistic).** Use the UNSW capstone with a real organisation to generate professional-adjacent delivery with a reference; work the alumni network.
+
+Strategic effect: the eventual AIDA (or NCS) move becomes a **data-to-data transfer within the Group**, not a career change requiring an employer to take a risk on a foreigner — the single largest reduction in EP justification difficulty available.
 
 ## 6. Assessed alternative — Snr Specialist, Broadcast Tech & Engrg (Req 175453, P4S1)
 
