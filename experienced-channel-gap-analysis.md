@@ -59,7 +59,35 @@ Rationale: it simultaneously closes four Tier A gaps (professional delivery, tit
 
 Strategic effect: the eventual AIDA move becomes a **data-to-data lateral transfer within the Group**, not a career change requiring an employer to take a risk on a foreigner. That is the single largest reduction in EP justification difficulty available.
 
-## 6. Honest timeline tradeoff
+## 6. Assessed alternative — Snr Specialist, Broadcast Tech & Engrg (Req 175453, P4S1)
+
+**Verdict: a weaker pathway than the data route, not a stronger one. Do not pursue this requisition.**
+
+Role (posted 23/07/2026, Singtel Application Services / TV Engineering & Operations): OSS/BSS integration **technical lead** for Singtel's OTT platform — integrating streaming with customer management, provisioning, billing, device management; Operator Tier OTT Set Top Box; multi-vendor program governance.
+
+| Requirement | Candidate position | Gap |
+|---|---|---|
+| **≥8 years IPTV, OTT or digital video platforms** | 0 years IPTV/OTT; ~22 months radio broadcast software support (RCS, Oct 2023–Aug 2025) | **Disqualifying** |
+| Grade **P4S1**, technical lead | Individual contributor, support/service operations | 2+ grades |
+| OTT architecture & streaming workflows | None | Major |
+| OSS/BSS integration | Partial concept only — Aquira (RCS) is commercial booking/billing, i.e. BSS-adjacent in concept, not telco-grade integration | Major |
+| Multi-vendor technical program delivery | Vendor coordination during major incidents; no delivery program ownership | Moderate |
+| Systems integration background | API/cloud/integration **fault diagnosis**, not integration delivery | Moderate |
+| Degree in IT/CS/Engineering | Swinburne BIS ✓ | None |
+
+**The "broadcast" match is largely lexical.** [RCS Sound Software](https://www.rcsworks.com/) is a *radio* broadcast vendor — Zetta (radio playout/automation), GSelector (music scheduling), Aquira (traffic/commercial booking and billing). This requisition concerns IPTV/OTT **video** delivery, set-top boxes and carrier OSS/BSS. Shared vocabulary, different engineering discipline.
+
+**Why this is worse than the data path — the decisive distinction:**
+- Data-route gaps are **closable by preparation** (stack, certification, portfolio, professional data delivery over 12–18 months).
+- This gap is **not closable by preparation at all**: 8 years in a domain with 0 years accrued cannot be studied, built, or accelerated.
+
+**Additional risk — under-qualification is an EP risk, not merely a hiring risk.** MOM requires experience *commensurate with the role*. Applying to a P4S1 senior specialist post with ~3 years' total professional experience weakens the EP case independently of Singtel's own view.
+
+**What is genuinely worth extracting from this listing:**
+1. **A new target organisation.** Singtel Application Services / TV Engineering & Operations exists and hires. Monitor it for **P2–P3 support, operations and integration-support roles** where RCS broadcast-software experience and Optus telco operations both count.
+2. **A latent asset to develop.** Aquira exposure (traffic + billing) is conceptually BSS-adjacent; if paired with Optus provisioning/billing familiarity, "telco BSS operations" is a credible medium-term specialisation — but at operations grade, not integration-lead grade.
+
+## 7. Honest timeline tradeoff
 
 This pause is measured in **12–18 months**, not weeks: master's conferred Nov 2026 → internal data role ~H1 2027 → AIDA transfer with genuine data tenure ~late 2027/2028. Tier B items land within 3 months and are worth doing regardless.
 
