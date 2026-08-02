@@ -55,7 +55,28 @@ AIDA hires for **hands-on GenAI infrastructure capability demonstrated publicly*
 - **Postgraduate qualification** — UNSW Master of Analytics carries COMPASS C2 (20 pts); a local SIT bachelor's is irrelevant to that calculus but the master's is the stronger credential on paper.
 - **Governance/security angle** — Monash cyber cert + the security-hardened Claude assistant; AIDA's JD explicitly asks for data governance, PII handling, access control.
 
-## 6. Actions arising
+## 6. The EP justification threshold (recruitment's view)
+
+**Hard gates — binary, fail any and there is no EP:**
+| Gate | Requirement |
+|---|---|
+| Fixed monthly salary | **≥ S$5,600** (Singtel = non-financial-services). Not negotiable downward |
+| COMPASS | **≥ 40 points** |
+| Credentials | Recognised degree + experience commensurate with the role |
+| **Fair Consideration Framework** | Role advertised on MyCareersFuture and locals fairly considered **before** the EP is lodged ([MOM FCF guide 2026](https://rafflescorporateservices.com/mom-fair-consideration-framework-fcf-mycareersfuture-singapore-2026/)). Minimum duration reported as 14 days, with sources indicating an increase to 28 — **verify current duration**. Exemptions exist for internal transferees; whether an Australia→Singapore Group transfer qualifies must be confirmed with Singtel HR |
+
+**The commercial threshold — the actual judgment.** Clearing the gates only makes an EP *possible*. Recruitment's real question is: *is this candidate enough better than the best local applicant to justify the cost?* That cost is concrete — a 14–28 day advertising window before filing, EP processing time on top, application fees, rejection risk, and renewal risk (COMPASS applies to EP renewals from 1 Jul 2026). A local hire carries none of it.
+
+**Quantified position:**
+- **Salary ask: S$6,000–6,500.** Below S$5,600 disqualifies outright; S$6,000 clears the Dependant's Pass threshold and scores C1; above ~S$7,000 invites comparison against senior local candidates.
+- **COMPASS: target 50+, not 40.** C1 (10) + C2 (20) = 30 locked *provided* the UNSW master's is conferred and salary meets benchmark; Singtel's firm-level C3/C4 likely adds strongly; C5 SOL bonus if the role qualifies. Do not rely on the SOL bonus alone.
+- **Differentiation: must name a capability the local applicant pool structurally lacks** — here, 3+ years production telco operations at SLA, plus existing Singtel Group tenure.
+
+**The decisive reframe.** At *junior* level the threshold is effectively unclearable: local fresh graduates are cheaper, faster and frictionless, and AIDA has already demonstrated it will hire exactly that (§3). At *experienced* level the comparison set changes to experienced local data engineers who already cost S$6,000+ — EP friction becomes normal, and 3 years of production operations counts as the differentiator rather than a consolation.
+
+**So the threshold is not a score, it is a category: be evaluated as an experienced hire, not a junior one.** Everything else — salary ask, req selection, CV positioning — follows from that.
+
+## 7. Actions arising
 
 1. **Reprioritise reqs:** target **Data & AI Platform Engineer** (primary) and **AI Platform Operations Engineer** (strong secondary — operations framing is the candidate's home turf). Do not compete head-on for the junior AI Platform Engineer seat.
 2. **Close the certification gap** — cheapest, highest-signal fix. Azure Data Engineer Associate (DP-203) or Azure AI Engineer (AI-102) fits the existing Azure stack; target before September.
